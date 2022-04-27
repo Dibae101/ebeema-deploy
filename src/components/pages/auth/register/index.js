@@ -13,7 +13,7 @@ function Register() {
     <div className="reg-main">
       <div className="agent reg-submain">
         <div className="reg-img">
-          <Link to="/">
+          <Link to="/ebeemaReactjs">
             <img src="./image/logo.png" alt="" className="logo" />
           </Link>
         </div>
@@ -141,7 +141,7 @@ function Register() {
             </p>
           </div>
           <div className="reg-backtohome">
-            <Link to="/">
+            <Link to="/ebeemaReactjs">
               <button className="backToHome">Back to home</button>
             </Link>
           </div>

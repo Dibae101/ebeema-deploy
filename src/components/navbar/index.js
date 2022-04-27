@@ -41,7 +41,7 @@ function Navbar() {
 
   return (
     <nav className={`navbar ${show && "nav__blue"}`}>
-      <Link to="/">
+      <Link to="/ebeemaReactjs">
         <img className="header-logo" src="./image/logo.png" alt="" />
       </Link>
       <div className="three-bar" onClick={handelClick}>

@@ -1,5 +1,5 @@
 {
-  "homepage": "https://meamrit777.github.io/ebeemaReactjs",
+  "homepage": "https://github.com/meamrit777/ebeema-deploy",
   "name": "ebeema-reactjs",
   "version": "0.1.0",
   "private": true,
@@ -39,7 +39,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy":"gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",

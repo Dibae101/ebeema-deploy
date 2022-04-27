@@ -25,7 +25,7 @@ function MainRoute() {
       <Navbar />
       <Phone />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/ebeemaReactjs" element={<Home />} />
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
         <Route path="/blog" element={<Blog />} />

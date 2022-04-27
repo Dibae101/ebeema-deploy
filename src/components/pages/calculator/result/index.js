@@ -25,7 +25,7 @@ const Result = () => {
   return (
     <>
       <div class="top-navigation">
-        <Link to="/">Home</Link> /
+        <Link to="/ebeemaReactjs">Home</Link> /
         <Link to="/calculator">Insurance Calculate</Link> / {category}
       </div>
       <div className="filter-split">

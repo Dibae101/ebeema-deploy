@@ -14,7 +14,7 @@ function Login() {
     <div className="log-main">
       <div className="log-submain">
         <div className="log-img">
-          <Link to="/">
+          <Link to="/ebeemaReactjs">
             <img src="./image/logo.png" alt="" className="logo" />
           </Link>
         </div>
@@ -82,7 +82,7 @@ function Login() {
             </p>
           </div>
           <div className="log-backtohome">
-            <Link to="/">
+            <Link to="/ebeemaReactjs">
               <button className="backToHome">Back to home</button>
             </Link>
           </div>
